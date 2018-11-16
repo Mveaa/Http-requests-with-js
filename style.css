@@ -1,0 +1,15 @@
+html {
+  	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  	width: 800px;
+  	margin: 0 auto;
+}
+li {
+	text-align: left;
+}
+header {
+	font-size: 2rem;
+ 	letter-spacing: -1px;
+}
